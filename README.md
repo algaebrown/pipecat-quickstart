@@ -171,3 +171,6 @@ pipecat cloud deploy
 - **Browser permissions**: Allow microphone access when prompted
 - **Connection issues**: Try a different browser or check VPN/firewall settings
 - **Audio issues**: Verify microphone and speakers are working and not muted
+
+# Helpful repo
+https://github.com/daily-co/pcc-gemini-twilio/blob/main/bot-cascade.py
